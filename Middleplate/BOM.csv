@@ -1,0 +1,5 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"D1,D2","LED","~","LED_THT:LED_D3.0mm_FlatTop","2",""
+"D3,D4","LED_Dual_Bidirectional","~","LED_THT:LED_D3.0mm_FlatTop","2",""
+"J1","Conn_01x14","~","Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical","1",""
+"U1,U2","~","","analog_computing:VCAN16A2-03S-E3-08","2",""
